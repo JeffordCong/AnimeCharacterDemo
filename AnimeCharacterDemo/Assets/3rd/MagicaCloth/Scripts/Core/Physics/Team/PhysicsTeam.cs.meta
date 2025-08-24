@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 990eb3eeea322214a9d0704fce1de27c
+timeCreated: 1518260491
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - miniPhysicsCS: {fileID: 7200000, guid: 444a3bf6c583c08498e88549ce61cb67, type: 3}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: b684e773a308dc14bb0d7c241f871bb0, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
