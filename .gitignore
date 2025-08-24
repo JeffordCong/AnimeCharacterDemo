@@ -60,3 +60,5 @@ dkms.conf
 /AnimeCharacterDemo/UserSettings
 /AnimeCharacterDemo/*.sln
 /AnimeCharacterDemo/*.csproj
+/AnimeCharacterDemo/obj
+/AnimeCharacterDemo/Assets/3rd/AmplifyShaderEditor

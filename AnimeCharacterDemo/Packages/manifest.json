@@ -1,9 +1,10 @@
 {
   "dependencies": {
+    "com.autodesk.fbx": "5.1.1",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.burst": "1.8.23",
     "com.unity.collab-proxy": "2.9.2",
-    "com.unity.collections": "1.5.2",
+    "com.unity.collections": "1.5.1",
     "com.unity.editorcoroutines": "1.0.0",
     "com.unity.ext.nunit": "1.0.6",
     "com.unity.feature.development": "1.0.1",
